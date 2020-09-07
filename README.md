@@ -1,6 +1,8 @@
 # Exploratory Analysis on Nigerian Weather Dataset
 **PROJECT SUMMARY**
+
 By ODUMUYIWA AYOMIKUN
+
 Weather plays an essential role in the agricultural output of any nation. Given the right weather conditions, there can be high output, and adverse weather conditions would affect production. As the weather is unpredictable, one cannot determine the weather at any given time. Given this current predicament, I want to examine the weather patterns over the years and see relationships and correlations that I can use to be able to predict weather patterns that are likely to happen in the future.
 This project would require me to apply data science skills that I am currently still trying to gain by enrolling in the IBM professional data science certificate. However, the majority of the skills that I would require to complete this project successfully are yet to be gained as I am still currently in the learning stage. This is my most significant obstacle.
 The result obtained from this project would help me determine the trends and patterns in the weather that would enable me to be able to successfully predict the weather based on the patterns observed over the years. Furthermore, the result would allow farmers in particular, as they are the ones affected the most by the weather, the ability to plan and avoid being caught unaware of any sudden changes in weather conditions. Necessary measures can also be taken in other to prevent losses when unfavourable weather conditions approach.
